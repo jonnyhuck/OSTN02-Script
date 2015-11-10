@@ -1,6 +1,6 @@
 <OGRVRTDataSource>
-    <OGRVRTLayer name="wgs84grid_0.5">
-        <SrcDataSource>wgs84grid_0.5.csv</SrcDataSource>
+    <OGRVRTLayer name="grid">
+        <SrcDataSource>grid.csv</SrcDataSource>
         <GeometryType>wkbPoint</GeometryType>
         <LayerSRS>WGS84</LayerSRS>
         <GeometryField encoding="PointFromColumns" x="longitude" y="latitude"/>
