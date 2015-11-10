@@ -1,0 +1,15 @@
+*.shp
+*.shp.xml
+*.shx
+*.dbf
+*.prj
+*.csv
+*.sbn
+*.sbx
+*.shx
+*.qpj
+*.qgs
+*.qgs~
+*.png
+*.pgw
+*.txt
