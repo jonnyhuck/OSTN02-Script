@@ -7,7 +7,7 @@ It draws a grid of poionts in WGS84 Latitude and Longitude, transforms them usin
 To run, use:
 `bash ./transformation.sh`
 
-For more information, an dsome examples, see the blog post [here](https://geographicalinformation.science/2015/11/09/transforming-between-osgb36-and-wgs84-using-ostn02/).
+For more information, and some examples, see the blog post [here](https://geographicalinformation.science/2015/11/09/transforming-between-osgb36-and-wgs84-using-ostn02/).
 
 Requirements:
 * Python 2.7
